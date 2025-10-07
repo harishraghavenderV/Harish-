@@ -1,0 +1,8 @@
+pyttsx3
+speechrecognition
+pyaudio
+requests
+openai
+tk
+pygame
+opencv-python
